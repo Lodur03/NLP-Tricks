@@ -1,5 +1,6 @@
-# NLP-Tricks
-Some useful scripts for NLP
+# NLP Bag of Tricks
+
+Some useful scripts for Natural Language Processing in Python.
 
 - **Intro to NLTK:** Examples of *Tokenization, Text Normalization, Similarity, POS Tagging, WordNet and Disambiguation* using primarily [NLTK](https://www.nltk.org/) library.
 - **NLP Pipeline for SPAM:** Example of [Scikit-Learn](https://scikit-learn.org/stable/) Machine Learning Pipeline implementation for classifying SPAM
