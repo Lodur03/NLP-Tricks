@@ -1,4 +1,4 @@
-# NLP Bag of Tricks
+# NLP: A Bag of Tricks
 
 Some useful scripts for Natural Language Processing in Python.
 
